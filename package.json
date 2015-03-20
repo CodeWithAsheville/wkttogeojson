@@ -4,7 +4,6 @@
   "description": "supply a url to a csv, converts WKT to GeoJSON",
   "main": "index.js",
   "dependencies": {
-    "csv-generate": "^0.0.4",
     "csv-parse": "^0.1.0",
     "csv-stringify": "^0.0.6",
     "request": "^2.53.0",
