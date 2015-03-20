@@ -15,6 +15,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Patrick Conant",
+  "license": "ISC",
+  "repository": "https://github.com/CodeForAsheville/wkttogeojson"
 }
